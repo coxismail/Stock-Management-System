@@ -1,0 +1,31 @@
+E:\ASP DOT NET\Projects\StockManagementWindowsApp\StockManagementWindowsApp\bin\Debug\smsdb.mdf
+E:\ASP DOT NET\Projects\StockManagementWindowsApp\StockManagementWindowsApp\bin\Debug\smsdb_log.ldf
+E:\ASP DOT NET\Projects\StockManagementWindowsApp\StockManagementWindowsApp\bin\Debug\Stock Management System.exe.config
+E:\ASP DOT NET\Projects\StockManagementWindowsApp\StockManagementWindowsApp\bin\Debug\Stock Management System.exe.manifest
+E:\ASP DOT NET\Projects\StockManagementWindowsApp\StockManagementWindowsApp\bin\Debug\Stock Management System.application
+E:\ASP DOT NET\Projects\StockManagementWindowsApp\StockManagementWindowsApp\bin\Debug\Stock Management System.exe
+E:\ASP DOT NET\Projects\StockManagementWindowsApp\StockManagementWindowsApp\bin\Debug\Stock Management System.pdb
+E:\ASP DOT NET\Projects\StockManagementWindowsApp\StockManagementWindowsApp\bin\Debug\itextsharp.dll
+E:\ASP DOT NET\Projects\StockManagementWindowsApp\StockManagementWindowsApp\bin\Debug\itextsharp.xml
+E:\ASP DOT NET\Projects\StockManagementWindowsApp\StockManagementWindowsApp\obj\Debug\StockManagementWindowsApp.Controls.About.resources
+E:\ASP DOT NET\Projects\StockManagementWindowsApp\StockManagementWindowsApp\obj\Debug\StockManagementWindowsApp.Controls.ExportData.resources
+E:\ASP DOT NET\Projects\StockManagementWindowsApp\StockManagementWindowsApp\obj\Debug\StockManagementWindowsApp.Controls.CatagorySetup.resources
+E:\ASP DOT NET\Projects\StockManagementWindowsApp\StockManagementWindowsApp\obj\Debug\StockManagementWindowsApp.Controls.ChangePassword.resources
+E:\ASP DOT NET\Projects\StockManagementWindowsApp\StockManagementWindowsApp\obj\Debug\StockManagementWindowsApp.Controls.CompanySetup.resources
+E:\ASP DOT NET\Projects\StockManagementWindowsApp\StockManagementWindowsApp\obj\Debug\StockManagementWindowsApp.Controls.History.resources
+E:\ASP DOT NET\Projects\StockManagementWindowsApp\StockManagementWindowsApp\obj\Debug\StockManagementWindowsApp.Controls.Introduce.resources
+E:\ASP DOT NET\Projects\StockManagementWindowsApp\StockManagementWindowsApp\obj\Debug\StockManagementWindowsApp.Controls.ItemSetup.resources
+E:\ASP DOT NET\Projects\StockManagementWindowsApp\StockManagementWindowsApp\obj\Debug\StockManagementWindowsApp.Controls.Reactive.resources
+E:\ASP DOT NET\Projects\StockManagementWindowsApp\StockManagementWindowsApp\obj\Debug\StockManagementWindowsApp.Controls.StockIn.resources
+E:\ASP DOT NET\Projects\StockManagementWindowsApp\StockManagementWindowsApp\obj\Debug\StockManagementWindowsApp.Controls.StockOut.resources
+E:\ASP DOT NET\Projects\StockManagementWindowsApp\StockManagementWindowsApp\obj\Debug\StockManagementWindowsApp.Controls.Upload.resources
+E:\ASP DOT NET\Projects\StockManagementWindowsApp\StockManagementWindowsApp\obj\Debug\StockManagementWindowsApp.Forms.OutDated.resources
+E:\ASP DOT NET\Projects\StockManagementWindowsApp\StockManagementWindowsApp\obj\Debug\StockManagementWindowsApp.loginForm.resources
+E:\ASP DOT NET\Projects\StockManagementWindowsApp\StockManagementWindowsApp\obj\Debug\StockManagementWindowsApp.homePage.resources
+E:\ASP DOT NET\Projects\StockManagementWindowsApp\StockManagementWindowsApp\obj\Debug\StockManagementSystem.Properties.Resources.resources
+E:\ASP DOT NET\Projects\StockManagementWindowsApp\StockManagementWindowsApp\obj\Debug\StockManagementWindowsApp.csproj.GenerateResource.Cache
+E:\ASP DOT NET\Projects\StockManagementWindowsApp\StockManagementWindowsApp\obj\Debug\Stock Management System.exe.manifest
+E:\ASP DOT NET\Projects\StockManagementWindowsApp\StockManagementWindowsApp\obj\Debug\Stock Management System.application
+E:\ASP DOT NET\Projects\StockManagementWindowsApp\StockManagementWindowsApp\obj\Debug\Stock Management System.exe
+E:\ASP DOT NET\Projects\StockManagementWindowsApp\StockManagementWindowsApp\obj\Debug\Stock Management System.pdb
+E:\ASP DOT NET\Projects\StockManagementWindowsApp\StockManagementWindowsApp\obj\Debug\StockManagementWindowsApp.csprojResolveAssemblyReference.cache

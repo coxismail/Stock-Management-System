@@ -1,0 +1,30 @@
+E:\ASP DOT NET\Projects\StockManagementWindowsApp\StockManagementWindowsApp\bin\Release\smsdb.mdf
+E:\ASP DOT NET\Projects\StockManagementWindowsApp\StockManagementWindowsApp\bin\Release\smsdb_log.ldf
+E:\ASP DOT NET\Projects\StockManagementWindowsApp\StockManagementWindowsApp\bin\Release\Stock Management System.exe.config
+E:\ASP DOT NET\Projects\StockManagementWindowsApp\StockManagementWindowsApp\bin\Release\Stock Management System.exe.manifest
+E:\ASP DOT NET\Projects\StockManagementWindowsApp\StockManagementWindowsApp\bin\Release\Stock Management System.application
+E:\ASP DOT NET\Projects\StockManagementWindowsApp\StockManagementWindowsApp\bin\Release\Stock Management System.exe
+E:\ASP DOT NET\Projects\StockManagementWindowsApp\StockManagementWindowsApp\bin\Release\Stock Management System.pdb
+E:\ASP DOT NET\Projects\StockManagementWindowsApp\StockManagementWindowsApp\bin\Release\itextsharp.dll
+E:\ASP DOT NET\Projects\StockManagementWindowsApp\StockManagementWindowsApp\bin\Release\itextsharp.xml
+E:\ASP DOT NET\Projects\StockManagementWindowsApp\StockManagementWindowsApp\obj\Release\StockManagementWindowsApp.Controls.About.resources
+E:\ASP DOT NET\Projects\StockManagementWindowsApp\StockManagementWindowsApp\obj\Release\StockManagementWindowsApp.Controls.ExportData.resources
+E:\ASP DOT NET\Projects\StockManagementWindowsApp\StockManagementWindowsApp\obj\Release\StockManagementWindowsApp.Controls.CatagorySetup.resources
+E:\ASP DOT NET\Projects\StockManagementWindowsApp\StockManagementWindowsApp\obj\Release\StockManagementWindowsApp.Controls.ChangePassword.resources
+E:\ASP DOT NET\Projects\StockManagementWindowsApp\StockManagementWindowsApp\obj\Release\StockManagementWindowsApp.Controls.CompanySetup.resources
+E:\ASP DOT NET\Projects\StockManagementWindowsApp\StockManagementWindowsApp\obj\Release\StockManagementWindowsApp.Controls.History.resources
+E:\ASP DOT NET\Projects\StockManagementWindowsApp\StockManagementWindowsApp\obj\Release\StockManagementWindowsApp.Controls.Introduce.resources
+E:\ASP DOT NET\Projects\StockManagementWindowsApp\StockManagementWindowsApp\obj\Release\StockManagementWindowsApp.Controls.ItemSetup.resources
+E:\ASP DOT NET\Projects\StockManagementWindowsApp\StockManagementWindowsApp\obj\Release\StockManagementWindowsApp.Controls.Reactive.resources
+E:\ASP DOT NET\Projects\StockManagementWindowsApp\StockManagementWindowsApp\obj\Release\StockManagementWindowsApp.Controls.StockIn.resources
+E:\ASP DOT NET\Projects\StockManagementWindowsApp\StockManagementWindowsApp\obj\Release\StockManagementWindowsApp.Controls.StockOut.resources
+E:\ASP DOT NET\Projects\StockManagementWindowsApp\StockManagementWindowsApp\obj\Release\StockManagementWindowsApp.Controls.Upload.resources
+E:\ASP DOT NET\Projects\StockManagementWindowsApp\StockManagementWindowsApp\obj\Release\StockManagementWindowsApp.Forms.OutDated.resources
+E:\ASP DOT NET\Projects\StockManagementWindowsApp\StockManagementWindowsApp\obj\Release\StockManagementWindowsApp.loginForm.resources
+E:\ASP DOT NET\Projects\StockManagementWindowsApp\StockManagementWindowsApp\obj\Release\StockManagementWindowsApp.homePage.resources
+E:\ASP DOT NET\Projects\StockManagementWindowsApp\StockManagementWindowsApp\obj\Release\StockManagementSystem.Properties.Resources.resources
+E:\ASP DOT NET\Projects\StockManagementWindowsApp\StockManagementWindowsApp\obj\Release\StockManagementWindowsApp.csproj.GenerateResource.Cache
+E:\ASP DOT NET\Projects\StockManagementWindowsApp\StockManagementWindowsApp\obj\Release\Stock Management System.exe.manifest
+E:\ASP DOT NET\Projects\StockManagementWindowsApp\StockManagementWindowsApp\obj\Release\Stock Management System.application
+E:\ASP DOT NET\Projects\StockManagementWindowsApp\StockManagementWindowsApp\obj\Release\Stock Management System.exe
+E:\ASP DOT NET\Projects\StockManagementWindowsApp\StockManagementWindowsApp\obj\Release\Stock Management System.pdb
